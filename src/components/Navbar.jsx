@@ -1,6 +1,6 @@
 import { FaLinkedin, FaGithub } from "react-icons/fa";
 import { IoDocumentTextOutline } from "react-icons/io5";
-import resumePdf from "../assets/Resume.pdf";
+import resumePdf from "../assets/Ronit_SDE_Resume.pdf";
 
 const Navbar = () => {
   return (
